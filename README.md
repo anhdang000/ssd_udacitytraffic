@@ -6,6 +6,14 @@
 
 More details are available at https://github.com/udacity/self-driving-car/tree/master/annotations
 
+## Result
+### 1. Training
+![](https://github.com/anhdang000/ssd_udacitytraffic/blob/main/ssd_training_log.png)
+
+### 2. Evaluation
+![](https://github.com/anhdang000/ssd_udacitytraffic/blob/main/ssd_evaluation.png)
+
+
 <b>Reference</b>:
 
 [1] Liu W. et al. (2016) SSD: Single Shot MultiBox Detector. In: Leibe B., Matas J., Sebe N., Welling M. (eds) Computer Vision – ECCV 2016. ECCV 2016. Lecture Notes in Computer Science, vol 9905. Springer, Cham. https://doi.org/10.1007/978-3-319-46448-0_2
